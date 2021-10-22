@@ -149,6 +149,6 @@ export const Content = styled.div`
 
 export const MainContent = styled.div`
   display: flex;
-  justify-content: right;
+  justify-content: left;
   flex-direction: row;
 `;

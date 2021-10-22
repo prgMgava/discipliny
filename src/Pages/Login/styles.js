@@ -164,6 +164,6 @@ export const Content = styled.div`
 
 export const MainContent = styled.div`
   display: flex;
-  justify-content: left;
+  justify-content: right;
   flex-direction: row-reverse;
 `;
